@@ -26,6 +26,12 @@ kickstart.nvim を使って Neovim の操作を身につけるための練習帳
 
 ---
 
+## 進捗管理
+
+[progress.md](progress.md) — 全章・全問のチェックリスト
+
+---
+
 ## 使い方
 
 1. 各章のドリルを開く
